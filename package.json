@@ -1,0 +1,31 @@
+{
+  "name": "google_books_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lia879/google_books_search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lia879/google_books_search/issues"
+  },
+  "homepage": "https://github.com/lia879/google_books_search#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "3",
+    "express": "^4.17.1",
+    "husky": "^4.2.3",
+    "if-env": "^1.0.4",
+    "lint-staged": "^10.0.8",
+    "mongoose": "^5.9.3",
+    "prettier": "^1.19.1",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-router": "^5.1.2"
+  }
+}
